@@ -2,7 +2,7 @@
 
 
 <div>
-  <h4 align="left">contate-me </h4> <a href="https://pereirasites.online" target="_blank">m.teuspereira09@gmail.com</a>
+  <h4 align="left">contate-me </h4> <a href="m.teuspereira09@gmail.com" target="_blank">m.teuspereira09@gmail.com</a>
 
 </div>
 
