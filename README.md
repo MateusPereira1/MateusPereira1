@@ -1,53 +1,49 @@
-<h2 align="left">👋 Olá, eu sou Mateus!</h2>
+<h1>Olá, sou Mateus Pereira 👋</h1>
 
 
-<div>
-  <h4 align="left">contate-me </h4> <a href="m.teuspereira09@gmail.com" target="_blank">m.teuspereira09@gmail.com</a>
 
+
+ <div align=="left">
+   <a href="https://github.com/MateusPereira1">
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MateusPereira1&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusPereira1&layout=compact&langs_count=6&theme=midnight-purple"/>
 </div>
 
-<h3 align="left">Tecnologias que utilizo</h3>
 
-###
 
-<h4 align="left">Front-End</h4>
 
-###
+<h2 align="left">Skills</h2>
+<p align="left">
+  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+</p>
+
+<h2 align="left">Frameworks and Libraries</h2>
+<p align="left">
+   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap">
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
+
+  
+</p>
+
+<h2 align="left">Tools</h2>
+<p align="left">
+   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="git">
+   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github">
+   <img src="https://img.shields.io/badge/figma-ea4c1d?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+   <img src="https://img.shields.io/badge/trello-006eb6?style=for-the-badge&logo=trello&logoColor=white" alt="Trello">
+   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
+</p> 
+
+ <h2 align="left">Formas de entrar em contato</h2>
+ 
+<div align="left"> 
+  <a href="https://instagram.com/mateus_pereira_1837" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:m.teuspereira09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mateus-pereira-50bba9291/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 </div>
 
-###
 
-<p align="left">Back-end</p>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-</div>
-
-###
-
-<h4 align="left">Ferramentas</h4>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-###
